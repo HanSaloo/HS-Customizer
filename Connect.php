@@ -363,7 +363,6 @@ class Connect
             curl_close($curl);
         $res = json_decode($responseAss, true);
 //        var_dump($res);
-        var_dump($toOjb);
             var_dump($endKey);
             echo "\n";
         }
