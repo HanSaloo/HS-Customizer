@@ -1,0 +1,10 @@
+{
+    "name": "vendor/lib",
+    "type": "hubspot",
+    "require": {
+        "hubspot/hubspot-php": "^4.0",
+        "hubspot/api-client": "^5.0",
+        "fakerphp/faker": "^1.18"
+    },
+    "minimum-stability": "stable"
+}
